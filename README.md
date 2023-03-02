@@ -1,2 +1,1 @@
-# prediction-time-series
-Prediction using Time Series
+A Python script to predict future values of a numeric dataset using Time Series
